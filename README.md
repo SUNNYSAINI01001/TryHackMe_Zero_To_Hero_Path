@@ -10,9 +10,8 @@ Note:
 Complete Credit Of This Path Goes To @Indian_Cyber_Magician Telegram Channel Owner.
 Don't Share Without Giving Credit.
 ```
-**Telegram Channel URL:-** 
-	
-https://t.me/Indian_Cyber_Magician 
+
+
 <br />
 <br />
 <br />
