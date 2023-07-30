@@ -20,7 +20,6 @@ Such actions are considered a breach of intellectual property rights and violate
 
 <br />
 <br />
-<br />
 
 # Path Started From Here :
 
