@@ -12,7 +12,7 @@ Note:
 
 <img src="https://raw.githubusercontent.com/SUNNYSAINI01001/TryHackMe_Zero_To_Hero_Path/main/hexadefend-logo-1.png" data-canonical-src="https://raw.githubusercontent.com/SUNNYSAINI01001/TryHackMe_Zero_To_Hero_Path/main/hexadefend-logo-1.png" width="450" height="400" />
 
-**Follow us :-**
+**Follow Us For Ethical Hacking Guidance:-**
 
 * [Click Here For Hexa Defend Social Media URLs](https://linktr.ee/hexadefend)
 
