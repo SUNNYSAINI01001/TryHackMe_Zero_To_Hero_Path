@@ -1,4 +1,4 @@
-# TryHackMe Zero To Hero Path
+# Hexa Defend - TryHackMe Zero To Hero Path
 
 ![wallpaper](https://raw.githubusercontent.com/SUNNYSAINI01001/TryHackMe_Zero_To_Hero_Path/main/TryHackMe_winter_wallpaper.png)
 <br />
@@ -6,11 +6,12 @@
 <br />
 ```
 Note:
-
-Complete Credit Of This Path Goes To @villan_hacker Cyber Magician Channel Owner.
-Don't Share Without Giving Credit.
+     Unauthorized spreading or using of Hexa Defend Company's path without permission or credit is strictly prohibited.
+     Such actions are considered a breach of intellectual property rights and violate our terms and conditions.
 ```
+**Follow us :-**
 
+* [Click Here For Hexa Defend Social Media URLS](https://linktr.ee/hexadefend)
 
 <br />
 <br />
