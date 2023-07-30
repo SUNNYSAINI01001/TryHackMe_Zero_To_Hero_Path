@@ -11,7 +11,7 @@ Note:
 Unauthorized spreading or using of Hexa Defend Company's path without permission or credit is strictly prohibited.
 Such actions are considered a breach of intellectual property rights and violate our terms and conditions.
 ```
-
+<br />
 **Follow Us For Ethical Hacking Guidance:-**
 
 * [Click Here For Hexa Defend Social Media URLs](https://linktr.ee/hexadefend)
