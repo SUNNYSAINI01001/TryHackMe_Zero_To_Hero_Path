@@ -1,4 +1,4 @@
-# Hexa Defend - TryHackMe Zero To Hero Path
+# TryHackMe Zero To Hero Path
 
 <img src="https://raw.githubusercontent.com/SUNNYSAINI01001/TryHackMe_Zero_To_Hero_Path/main/better%20yesterday.png" data-canonical-src="https://raw.githubusercontent.com/SUNNYSAINI01001/TryHackMe_Zero_To_Hero_Path/main/better%20yesterday.png" width="1000" height="470" />
 <br />
@@ -6,10 +6,7 @@
 <br />
 
 ```
-Note:
 
-Unauthorized spreading or using of Hexa Defend Company's path without permission or credit is strictly prohibited.
-Such actions are considered a breach of intellectual property rights and violate our terms and conditions.
 ```
 <br />
 
