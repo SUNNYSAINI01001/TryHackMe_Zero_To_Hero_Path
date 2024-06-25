@@ -1,6 +1,5 @@
 # TryHackMe Zero To Hero Path
 
-<img src="https://raw.githubusercontent.com/SUNNYSAINI01001/TryHackMe_Zero_To_Hero_Path/main/better%20yesterday.png" data-canonical-src="https://raw.githubusercontent.com/SUNNYSAINI01001/TryHackMe_Zero_To_Hero_Path/main/better%20yesterday.png" width="1000" height="470" />
 <br />
 <br />
 <br />
@@ -10,9 +9,6 @@
 ```
 <br />
 
-**Follow Us For Ethical Hacking Guidance:-**
-
-* [Click Here For Hexa Defend Social Media URLs](https://linktr.ee/hexadefend)
 
 
 <br />
