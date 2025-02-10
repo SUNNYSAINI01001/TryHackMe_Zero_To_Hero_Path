@@ -36,11 +36,11 @@
 *  _Intro to LAN =>_ https://tryhackme.com/room/introtolan
 * _HTTP in details =>_ https://tryhackme.com/room/httpindetail
 * _DNS in details =>_ https://tryhackme.com/room/dnsindetail
+* _Network Services =>_  https://tryhackme.com/room/networkservices
+* _Network Services 2 =>_  https://tryhackme.com/room/networkservices2
 
 **Paid Rooms**
 
-* _Network Services =>_  https://tryhackme.com/room/networkservices
-* _Network Services 2 =>_  https://tryhackme.com/room/networkservices2
 * _Osi Model =>_  https://tryhackme.com/room/osimodelzi
 * _Extending Your Network =>_ https://tryhackme.com/room/extendingyournetwork
 * _Packet & Frames =>_ https://tryhackme.com/room/packetsframes
