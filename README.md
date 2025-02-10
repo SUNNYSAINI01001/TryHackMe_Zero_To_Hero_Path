@@ -54,11 +54,12 @@
 **Free Rooms**
 
 * _Linux Fundamentals Part 1 =>_ https://tryhackme.com/room/linuxfundamentalspart1
-* _Linux Fundamentals Part 2 =>_ https://tryhackme.com/room/linuxfundamentalspart2
-* _Linux Fundamentals Part 3 =>_ https://tryhackme.com/room/linuxfundamentalspart3
+
 
 **Paid Room**
 
+* _Linux Fundamentals Part 2 =>_ https://tryhackme.com/room/linuxfundamentalspart2
+* _Linux Fundamentals Part 3 =>_ https://tryhackme.com/room/linuxfundamentalspart3
 * _Learn Linux =>_ https://tryhackme.com/room/zthlinux
 
 # Information Gathering & Reconnaissance
