@@ -38,6 +38,8 @@
 * _DNS in details =>_ https://tryhackme.com/room/dnsindetail
 * _Network Services =>_  https://tryhackme.com/room/networkservices
 * _Network Services 2 =>_  https://tryhackme.com/room/networkservices2
+* _How Website Works =>_ https://tryhackme.com/jr/howwebsiteswork
+* _Putting it all together =>_ https://tryhackme.com/jr/puttingitalltogether
 
 **Paid Rooms**
 
@@ -46,8 +48,7 @@
 * _Packet & Frames =>_ https://tryhackme.com/room/packetsframes
 * _Protocols and Servers =>_ https://tryhackme.com/jr/protocolsandservers
 * _Protocols and Servers 2 =>_ https://tryhackme.com/jr/protocolsandservers2
-* _How Website Works =>_ https://tryhackme.com/jr/howwebsiteswork
-* _Putting it all together =>_ https://tryhackme.com/jr/puttingitalltogether
+
 
 # Linux Fundamentals
 
