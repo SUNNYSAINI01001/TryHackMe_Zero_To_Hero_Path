@@ -84,11 +84,12 @@
 * _Hydra =>_ https://tryhackme.com/room/hydra
 * _BurpSuite: The Basics =>_ https://tryhackme.com/room/burpsuitebasics
 * _BurpSuite: Repeater =>_ https://tryhackme.com/room/burpsuiterepeater
+* _Nmap Live Host Discovery =>_ https://tryhackme.com/jr/nmap01
+
 
 
 **Paid Rooms**
 
-* _Nmap Live Host Discovery =>_ https://tryhackme.com/jr/nmap01
 * _Nmap Basic Port Scan =>_ https://tryhackme.com/jr/nmap02
 * _Nmap Advanced Port Scan =>_ https://tryhackme.com/jr/nmap03
 * _Nmap Post Port Scan =>_ https://tryhackme.com/jr/nmap04
