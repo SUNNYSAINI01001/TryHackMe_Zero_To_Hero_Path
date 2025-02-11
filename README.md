@@ -33,7 +33,6 @@
 
 *  _Introductory Networking =>_ https://tryhackme.com/room/introtonetworking 
 *  _What is Networking =>_ https://tryhackme.com/room/whatisnetworking 
-*  _Intro to LAN =>_ https://tryhackme.com/room/introtolan
 * _HTTP in details =>_ https://tryhackme.com/room/httpindetail
 * _DNS in details =>_ https://tryhackme.com/room/dnsindetail
 * _Network Services =>_  https://tryhackme.com/room/networkservices
@@ -42,6 +41,7 @@
 **Paid Rooms**
 
 * _Osi Model =>_  https://tryhackme.com/room/osimodelzi
+*  _Intro to LAN =>_ https://tryhackme.com/room/introtolan
 * _Extending Your Network =>_ https://tryhackme.com/room/extendingyournetwork
 * _Packet & Frames =>_ https://tryhackme.com/room/packetsframes
 * _Protocols and Servers =>_ https://tryhackme.com/jr/protocolsandservers
